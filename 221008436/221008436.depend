@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661696507 source:/home/locust/Documents/s_stuff/unb/apc/c/Final/221008436/221008436.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
